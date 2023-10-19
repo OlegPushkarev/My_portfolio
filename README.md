@@ -34,7 +34,13 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools
 
 <a href="http://www.github.com/OlegPushkarev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=OlegPushkarev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Проекты
-#### Тестирование веб-приложение для учителей от Skyeng.
+## Проекты
+### Тестирование веб-приложение для учителей от Skyeng.
 В личном кабинете преподавателя появилась новая функциональность.
 Поставлена задача провести тестирование данной функциональности в том числе через API и вынести решение готовности, и возможности релиза на платформе.
+#### Техническая документация 
+- Технические требования к элементу: [Документация к проекту](https://www.notion.so/6746e543d02c43879de0057cafe196b0?pvs=21)
+    
+    !https://www.notion.so/front-static/logo-ios.png
+    
+- Общая работоспособность. Интерфейс, функционал, интеграции, переходы, соответствие макету
