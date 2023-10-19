@@ -18,9 +18,8 @@ src="https://img.shields.io/github/followers/OlegPushkarev?logo=github&style=for
 ### Skills
 
 
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+Jira, qase.io, SQL,  Postman, Fiddler, Swagger, Trello,
+SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools
 
 
 ### Socials
