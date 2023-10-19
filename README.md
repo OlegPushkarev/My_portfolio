@@ -34,13 +34,15 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools
 
 <a href="http://www.github.com/OlegPushkarev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=OlegPushkarev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## Проекты
+## Проект 1
 ### Тестирование веб-приложение для учителей от Skyeng.
 В личном кабинете преподавателя появилась новая функциональность.
 Поставлена задача провести тестирование данной функциональности в том числе через API и вынести решение готовности, и возможности релиза на платформе.
-#### Техническая документация 
-- Технические требования к элементу: [Документация к проекту](https://www.notion.so/6746e543d02c43879de0057cafe196b0?pvs=21)
-    https://icons8.ru/icon/Vq3AFaQbsGCn/schaukelpferd 
-    !https://www.notion.so/front-static/logo-ios.png
-    
-- Общая работоспособность. Интерфейс, функционал, интеграции, переходы, соответствие макету
+#### Задачи
+1) Провести Smoke тестирование
+2) Провести функциональное тестирование и составить чек лист
+3) Провести приемночное тестирование
+4) Провести регрессионное тестирование
+Ссылка на проект https://denim-game-9bf.notion.site/daada342e0f14a92be1c8327e671cb4f?pvs=4 
+
+
